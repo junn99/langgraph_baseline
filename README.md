@@ -17,3 +17,4 @@ In order to deploy this agent to LangGraph Cloud you will want to first fork thi
 
 # 랭그래프 스튜디오 초기 설정
 - 이거 기반으로 이제 넓혀서 작업
+- mcp[cli] 패키지는 python 3.10이상이여야 함
