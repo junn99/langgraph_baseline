@@ -30,6 +30,7 @@ dependencies = [
     "nest-asyncio>=1.6.0",
     "pillow>=11.2.1",
     "requests>=2.32.4",
+    "langchain-chroma>=0.2.4",
 ]
 
 [tool.hatch.build.targets.wheel]
